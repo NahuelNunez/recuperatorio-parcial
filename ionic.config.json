@@ -1,0 +1,7 @@
+{
+  "name": "recuperatorioparcial2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
